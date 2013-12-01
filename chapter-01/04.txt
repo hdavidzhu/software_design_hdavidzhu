@@ -1,0 +1,14 @@
+Start the Python interpreter and use it as a calculator. Python’s syntax for math operations is almost the same as standard mathematical notation. For example, the symbols +, - and / denote addition, subtraction and division, as you would expect. The symbol for multiplication is *.
+
+If you run a 10 kilometer race in 43 minutes 30 seconds, what is your average time per mile? What is your average speed in miles per hour? (Hint: there are 1.61 kilometers in a mile).
+
+In [1]: 10/1.61
+Out[1]: 6.211180124223602
+
+In [2]: 43.5/60
+Out[2]: 0.725
+
+In [3]: Out[1]/Out[2]
+Out[3]: 8.567144998929106
+
+8.567144998929106 mph

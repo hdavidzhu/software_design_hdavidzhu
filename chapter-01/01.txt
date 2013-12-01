@@ -1,0 +1,4 @@
+Write a well-structured English sentence with invalid tokens in it. Then write another sentence with all valid tokens but with invalid structure.
+
+Ths Thaksgiving brak, E wil g though al f hink Pthon.
+This through all Thanksgiving I will break go of Think Python.
