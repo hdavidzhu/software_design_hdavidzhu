@@ -1,0 +1,16 @@
+In [1]: cover_price = 24.95
+
+In [2]: discount  = .4
+
+In [3]: shipping_cost = 3.0
+
+In [4]: add_shipping = .75
+
+In [5]: copies = 60
+
+In [6]: total_cost = copies*cover_price + shipping_cost + (copies-1)*add_shipping
+
+In [7]: print total_cost
+1544.25
+
+In [8]: 
